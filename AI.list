@@ -5,6 +5,7 @@
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 DOMAIN-KEYWORD,grok
+DOMAIN-KEYWORD,zyfxs
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
 
